@@ -1,0 +1,92 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    color:cornsilk;
+    text-align: center;
+    font-family:monospace
+}
+header{
+    width: 100%;
+    height: 140px;
+    background-color: rgb(255, 255, 255);
+    float:left;
+    color:rgb(0, 0, 0)
+}
+header div{
+    width: 30%;
+    float:left;
+    padding-left: 15px;
+}
+#logo img{
+    height: 120px;
+}
+#titulo{
+    text-align: center;
+    padding-top: 50px;
+}
+nav{
+    width: 100%;
+    height: 40px;
+    background-color: #ffb835;
+    float: left;
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+    margin: 5px;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 24px;
+    margin-left: 30px;
+    color: #fff;
+}
+nav ul li a:hover{
+    background-color: rgb(197, 134, 61);
+}
+footer{
+    width: 100%;
+    float: left;
+    background-color: #f8f6f6;
+    height: 50px;
+    margin-top: 57px;
+    color: darkgoldenrod;
+}
+main div img{
+    width: 100%;
+}
+main div h1{
+    text-align: left;
+    margin: 30px;
+}
+footer p{
+    padding-top:20px;
+    text-align: center;
+}
+.gif{
+    padding-top: 30px;
+}
+.gif img{
+    width: 50%
+}
+.image{
+    width: 50%;
+    image-orientation: flip;
+    margin-left:auto;
+    margin-right:auto;
+}
+#hinata{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+}
